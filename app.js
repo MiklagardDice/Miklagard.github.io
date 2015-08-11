@@ -4,11 +4,8 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 510,                             // <----------------------------- EDIT ME!
-  // - Displayed in the navbar
+  app_id: 520,     
   app_name: 'Miklagard',
-  // - For your faucet to work, you must register your site at Recaptcha
-  // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LdMIgsTAAAAALrTNfByKbQxfKFCQTG1iRQEjPsK',  // <----- EDIT ME!
   redirect_uri: 'https://Miklagard.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
