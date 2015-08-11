@@ -7,7 +7,7 @@ var config = {
   app_id: 520,     
   app_name: 'Miklagard',
   recaptcha_sitekey: '6LdMIgsTAAAAALrTNfByKbQxfKFCQTG1iRQEjPsK',  // <----- EDIT ME!
-  redirect_uri: 'https://Miklagard.github.io',
+  redirect_uri: 'https://Miklagardprojects.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: 'https://a-chat-server.herokuapp.com',
