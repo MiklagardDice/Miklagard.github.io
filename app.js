@@ -4,7 +4,7 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 520,     
+  app_id: 522,     
   app_name: 'Miklagard',
   recaptcha_sitekey: '6LdMIgsTAAAAALrTNfByKbQxfKFCQTG1iRQEjPsK',  // <----- EDIT ME!
   redirect_uri: 'https://MiklagardDice.github.io',
